@@ -8,7 +8,7 @@ The course is split up into 10 Weeks with a new topic each week, such as:
 
 - [x] Week 1(Functions/Variables)
 - [x] Week 2(Conditionals)
-- [ ] Week 3(Loops)
+- [x] Week 3(Loops)
 - [ ] Week 4(Exceptions)
 - [ ] Week 5(Libraries)
 - [ ] Week 6(Unit Tests)
