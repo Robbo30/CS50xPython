@@ -18,4 +18,4 @@ The course is split up into 10 Weeks with a new topic each week, such as:
 - [ ] Week 10 (Et Cetera)
 
 ```diff
-Hello
+- hey
