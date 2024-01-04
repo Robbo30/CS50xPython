@@ -10,7 +10,7 @@ The course is split up into 10 Weeks with a new topic each week, such as:
 - [x] Week 2(Conditionals)
 - [x] Week 3(Loops)
 - [x] Week 4(Exceptions)
-- [ ] Week 5(Libraries)
+- [x] Week 5(Libraries)
 - [ ] Week 6(Unit Tests)
 - [ ] Week 7(File I/O)
 - [ ] Week 8(Regular Expressions)
