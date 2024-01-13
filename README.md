@@ -13,7 +13,7 @@ The course is split up into 10 Weeks with a new topic each week, such as:
 - [x] Week 5(Libraries)
 - [x] Week 6(Unit Tests)
 - [x] Week 7(File I/O)
-- [ ] Week 8(Regular Expressions)
+- [x] Week 8(Regular Expressions)
 - [ ] Week 9(OOP)
 - [ ] Week 10 (Et Cetera)
 
